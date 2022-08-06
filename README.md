@@ -21,3 +21,6 @@ You write bellow line(example).
 
 Finally, You save crontab.
 
+(EXAMPLE)
+
+<img src="https://github.com/momerio/memory_check_for_ubuntu/blob/31682b7ef9934b61ad948c64e4a6bf825d826e78/example.png" width=500px>
