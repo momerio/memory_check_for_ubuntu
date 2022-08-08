@@ -5,7 +5,7 @@
 STEP1: You write "memory_check.py path(full path)" and "discord webhook url" in "memory_check.sh".
 
 ```
-EXECUTE_PATH=<<PYTHON PATH>>
+EXECUTE_PATH=<<PYTHON FILE PATH>>
 DISCORD_WEBHOOK_URL=<<WEBHOOK_URL>>
 ```
 
@@ -21,6 +21,6 @@ You write bellow line(example).
 
 Finally, You save crontab.
 
-(EXAMPLE)
+## RUN EXAMPLE
 
 <img src="https://github.com/momerio/memory_check_for_ubuntu/blob/31682b7ef9934b61ad948c64e4a6bf825d826e78/example.png" width=500px>
